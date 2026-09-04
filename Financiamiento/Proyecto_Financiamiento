@@ -53,3 +53,57 @@ Durante la investigación se identificaron los siguientes aspectos que deberán 
 - Cumplimiento de procesos de **KYC/KYB** cuando corresponda.
 - Revisión de elegibilidad antes de avanzar en el proceso.
 =======
+También se identificó que una referencia de un miembro de la comunidad puede contribuir al proceso de selección, aunque no constituye por sí misma un requisito obligatorio.
+
+Un punto importante para el proyecto es que **una aplicación convencional para administrar productos artesanales no sería suficiente para justificar por sí sola una solicitud al SCF**.
+
+Por ello, antes de considerar una postulación, será necesario definir una funcionalidad donde Stellar tenga una utilidad real.
+
+### Principio de diseño
+
+> **No se utilizará blockchain solamente por utilizar blockchain.**
+
+La tecnología deberá incorporarse cuando exista una necesidad concreta que pueda beneficiarse de sus características.
+
+**Fuente:**  
+[SCF — Build Award](https://stellar.gitbook.io/scf-handbook/scf-awards/build-award)
+
+---
+
+## 1.3 Requisitos de una posible propuesta SCF Build
+
+Una futura propuesta podría requerir elementos como: 
+
+1. **Roadmap técnico** y plan de hitos.
+2. **Presupuesto** relacionado con las etapas del proyecto.
+3. Información sobre la **tracción actual**.
+4. Capacidades y experiencia del equipo.
+5. Descripción de la solución.
+6. Justificación de la integración con Stellar.
+7. Entregables verificables.
+8. Indicadores de éxito.
+
+### Criterios que se deberán considerar
+
+- Valor generado para el ecosistema Stellar.
+- Viabilidad técnica.
+- Claridad del roadmap.
+- Capacidad del equipo.
+- Calidad de la propuesta.
+- Integración con Stellar.
+- Alcance del proyecto.
+- Claridad de los entregables.
+
+En el **Open Track**, será importante demostrar una integración *on-chain* clara y explicar cómo la solución puede aportar utilidad al ecosistema Stellar.
+
+En el **Integration Track**, sería necesario utilizar componentes existentes del ecosistema y relacionar una parte importante del presupuesto con dichas integraciones.
+
+Por este motivo, **no se plantea realizar una solicitud inmediata al SCF**. Primero se continuará con el desarrollo, la validación de necesidades y el análisis técnico.
+
+**Fuentes oficiales:**
+
+- [SCF — Build Award](https://stellar.gitbook.io/scf-handbook/scf-awards/build-award)
+- [SCF — Open Track](https://stellar.gitbook.io/scf-handbook/scf-awards/build-award/open-track)
+- [SCF — Integration Track](https://stellar.gitbook.io/scf-handbook/scf-awards/build-award/integration-track/integration-list)
+
+---
