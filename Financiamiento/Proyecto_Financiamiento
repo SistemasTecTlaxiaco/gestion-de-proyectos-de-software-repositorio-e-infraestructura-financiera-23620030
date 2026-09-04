@@ -1,0 +1,40 @@
+
+## 1. Investigación sobre Stellar Community Fund (SCF)
+
+### 1.1 ¿Qué es el Stellar Community Fund?
+
+El **Stellar Community Fund (SCF)** es un programa de la **Stellar Development Foundation (SDF)** que busca apoyar proyectos que desarrollen soluciones dentro del ecosistema de Stellar.
+
+El equipo está investigando el SCF como una **posible alternativa de financiamiento para etapas futuras** del proyecto. Actualmente no existe una solicitud presentada ni un financiamiento aprobado.
+
+El programa **SCF Build** contempla diferentes modalidades:
+
+- **Open Track:** para equipos que desarrollan nuevos productos, casos de uso o soluciones sobre Stellar.
+- **Integration Track:** para proyectos que integran componentes existentes del ecosistema Stellar.
+- **RFP Track:** para soluciones que responden a solicitudes específicas de propuestas.
+
+La documentación consultada establece que los **Build Awards pueden alcanzar hasta 150,000 USD en valor de XLM**, distribuidos mediante diferentes hitos.
+
+Para el proyecto de los tenates, esta información se utiliza como referencia para evaluar si una futura versión del sistema podría cumplir con los requisitos del programa.
+
+> **Situación actual:** El proyecto **no es beneficiario del SCF** y no cuenta con financiamiento aprobado.
+
+**Fuente oficial:**  
+[SCF Handbook — Build Award](https://stellar.gitbook.io/scf-handbook/scf-awards/build-award)
+
+---
+
+### 1.2 Requisitos generales analizados
+
+Durante la investigación se identificaron los siguientes aspectos que deberán considerarse antes de realizar una posible postulación:
+
+- Alineación del proyecto con los objetivos del SCF.
+- Capacidad técnica del equipo.
+- Uso significativo y justificado de **Stellar o Soroban**.
+- Experiencia y capacidades de los integrantes.
+- Descripción clara de la solución.
+- Justificación de la integración con Stellar.
+- Entregables verificables.
+- Indicadores para medir resultados.
+- Cumplimiento de procesos de **KYC/KYB** cuando corresponda.
+- Revisión de elegibilidad antes de avanzar en el proceso.
